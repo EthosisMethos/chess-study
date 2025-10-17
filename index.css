@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f7f7f7;
+}
+button {
+  cursor: pointer;
+}
+select {
+  padding: 4px;
+}
